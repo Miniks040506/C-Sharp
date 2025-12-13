@@ -1,0 +1,14 @@
+D:\C-sharp\C#_Loops_Arrays\SimilarTextAdventure\SimilarTextAdventure\bin\Debug\net10.0\SimilarTextAdventure.exe
+D:\C-sharp\C#_Loops_Arrays\SimilarTextAdventure\SimilarTextAdventure\bin\Debug\net10.0\SimilarTextAdventure.deps.json
+D:\C-sharp\C#_Loops_Arrays\SimilarTextAdventure\SimilarTextAdventure\bin\Debug\net10.0\SimilarTextAdventure.runtimeconfig.json
+D:\C-sharp\C#_Loops_Arrays\SimilarTextAdventure\SimilarTextAdventure\bin\Debug\net10.0\SimilarTextAdventure.dll
+D:\C-sharp\C#_Loops_Arrays\SimilarTextAdventure\SimilarTextAdventure\bin\Debug\net10.0\SimilarTextAdventure.pdb
+D:\C-sharp\C#_Loops_Arrays\SimilarTextAdventure\SimilarTextAdventure\obj\Debug\net10.0\SimilarTextAdventure.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp\C#_Loops_Arrays\SimilarTextAdventure\SimilarTextAdventure\obj\Debug\net10.0\SimilarTextAdventure.AssemblyInfoInputs.cache
+D:\C-sharp\C#_Loops_Arrays\SimilarTextAdventure\SimilarTextAdventure\obj\Debug\net10.0\SimilarTextAdventure.AssemblyInfo.cs
+D:\C-sharp\C#_Loops_Arrays\SimilarTextAdventure\SimilarTextAdventure\obj\Debug\net10.0\SimilarTextAdventure.csproj.CoreCompileInputs.cache
+D:\C-sharp\C#_Loops_Arrays\SimilarTextAdventure\SimilarTextAdventure\obj\Debug\net10.0\SimilarTextAdventure.dll
+D:\C-sharp\C#_Loops_Arrays\SimilarTextAdventure\SimilarTextAdventure\obj\Debug\net10.0\refint\SimilarTextAdventure.dll
+D:\C-sharp\C#_Loops_Arrays\SimilarTextAdventure\SimilarTextAdventure\obj\Debug\net10.0\SimilarTextAdventure.pdb
+D:\C-sharp\C#_Loops_Arrays\SimilarTextAdventure\SimilarTextAdventure\obj\Debug\net10.0\SimilarTextAdventure.genruntimeconfig.cache
+D:\C-sharp\C#_Loops_Arrays\SimilarTextAdventure\SimilarTextAdventure\obj\Debug\net10.0\ref\SimilarTextAdventure.dll

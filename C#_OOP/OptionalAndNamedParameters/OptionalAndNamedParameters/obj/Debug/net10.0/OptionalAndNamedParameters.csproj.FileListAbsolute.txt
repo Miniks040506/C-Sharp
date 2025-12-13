@@ -1,0 +1,14 @@
+D:\C-sharp\C#_OOP\OptionalAndNamedParameters\OptionalAndNamedParameters\bin\Debug\net10.0\OptionalAndNamedParameters.exe
+D:\C-sharp\C#_OOP\OptionalAndNamedParameters\OptionalAndNamedParameters\bin\Debug\net10.0\OptionalAndNamedParameters.deps.json
+D:\C-sharp\C#_OOP\OptionalAndNamedParameters\OptionalAndNamedParameters\bin\Debug\net10.0\OptionalAndNamedParameters.runtimeconfig.json
+D:\C-sharp\C#_OOP\OptionalAndNamedParameters\OptionalAndNamedParameters\bin\Debug\net10.0\OptionalAndNamedParameters.dll
+D:\C-sharp\C#_OOP\OptionalAndNamedParameters\OptionalAndNamedParameters\bin\Debug\net10.0\OptionalAndNamedParameters.pdb
+D:\C-sharp\C#_OOP\OptionalAndNamedParameters\OptionalAndNamedParameters\obj\Debug\net10.0\OptionalAndNamedParameters.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp\C#_OOP\OptionalAndNamedParameters\OptionalAndNamedParameters\obj\Debug\net10.0\OptionalAndNamedParameters.AssemblyInfoInputs.cache
+D:\C-sharp\C#_OOP\OptionalAndNamedParameters\OptionalAndNamedParameters\obj\Debug\net10.0\OptionalAndNamedParameters.AssemblyInfo.cs
+D:\C-sharp\C#_OOP\OptionalAndNamedParameters\OptionalAndNamedParameters\obj\Debug\net10.0\OptionalAndNamedParameters.csproj.CoreCompileInputs.cache
+D:\C-sharp\C#_OOP\OptionalAndNamedParameters\OptionalAndNamedParameters\obj\Debug\net10.0\OptionalAndNamedParameters.dll
+D:\C-sharp\C#_OOP\OptionalAndNamedParameters\OptionalAndNamedParameters\obj\Debug\net10.0\refint\OptionalAndNamedParameters.dll
+D:\C-sharp\C#_OOP\OptionalAndNamedParameters\OptionalAndNamedParameters\obj\Debug\net10.0\OptionalAndNamedParameters.pdb
+D:\C-sharp\C#_OOP\OptionalAndNamedParameters\OptionalAndNamedParameters\obj\Debug\net10.0\OptionalAndNamedParameters.genruntimeconfig.cache
+D:\C-sharp\C#_OOP\OptionalAndNamedParameters\OptionalAndNamedParameters\obj\Debug\net10.0\ref\OptionalAndNamedParameters.dll

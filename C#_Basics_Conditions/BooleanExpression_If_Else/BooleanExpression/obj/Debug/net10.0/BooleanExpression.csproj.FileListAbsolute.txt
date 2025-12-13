@@ -1,0 +1,14 @@
+D:\C-sharp\C#_Basic\BooleanExpression\BooleanExpression\bin\Debug\net10.0\BooleanExpression.exe
+D:\C-sharp\C#_Basic\BooleanExpression\BooleanExpression\bin\Debug\net10.0\BooleanExpression.deps.json
+D:\C-sharp\C#_Basic\BooleanExpression\BooleanExpression\bin\Debug\net10.0\BooleanExpression.runtimeconfig.json
+D:\C-sharp\C#_Basic\BooleanExpression\BooleanExpression\bin\Debug\net10.0\BooleanExpression.dll
+D:\C-sharp\C#_Basic\BooleanExpression\BooleanExpression\bin\Debug\net10.0\BooleanExpression.pdb
+D:\C-sharp\C#_Basic\BooleanExpression\BooleanExpression\obj\Debug\net10.0\BooleanExpression.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp\C#_Basic\BooleanExpression\BooleanExpression\obj\Debug\net10.0\BooleanExpression.AssemblyInfoInputs.cache
+D:\C-sharp\C#_Basic\BooleanExpression\BooleanExpression\obj\Debug\net10.0\BooleanExpression.AssemblyInfo.cs
+D:\C-sharp\C#_Basic\BooleanExpression\BooleanExpression\obj\Debug\net10.0\BooleanExpression.csproj.CoreCompileInputs.cache
+D:\C-sharp\C#_Basic\BooleanExpression\BooleanExpression\obj\Debug\net10.0\BooleanExpression.dll
+D:\C-sharp\C#_Basic\BooleanExpression\BooleanExpression\obj\Debug\net10.0\refint\BooleanExpression.dll
+D:\C-sharp\C#_Basic\BooleanExpression\BooleanExpression\obj\Debug\net10.0\BooleanExpression.pdb
+D:\C-sharp\C#_Basic\BooleanExpression\BooleanExpression\obj\Debug\net10.0\BooleanExpression.genruntimeconfig.cache
+D:\C-sharp\C#_Basic\BooleanExpression\BooleanExpression\obj\Debug\net10.0\ref\BooleanExpression.dll

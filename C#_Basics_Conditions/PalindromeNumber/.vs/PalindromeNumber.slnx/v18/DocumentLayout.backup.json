@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C-sharp\\C#_Basics_Conditions_Loops\\PalindromeNumber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88020E28-0D53-40E3-9F15-3E38B24CBA62}|PalindromeNumber\\PalindromeNumber.csproj|d:\\c-sharp\\c#_basics_conditions_loops\\palindromenumber\\palindromenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88020E28-0D53-40E3-9F15-3E38B24CBA62}|PalindromeNumber\\PalindromeNumber.csproj|solutionrelative:palindromenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C-sharp\\C#_Basics_Conditions_Loops\\PalindromeNumber\\PalindromeNumber\\Program.cs",
+              "RelativeDocumentMoniker": "PalindromeNumber\\Program.cs",
+              "ToolTip": "D:\\C-sharp\\C#_Basics_Conditions_Loops\\PalindromeNumber\\PalindromeNumber\\Program.cs",
+              "RelativeToolTip": "PalindromeNumber\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwCMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:23:22.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\C-sharp\C#_OOP\MethosInClasses\MethosInClasses\bin\Debug\net10.0\MethosInClasses.exe
+D:\C-sharp\C#_OOP\MethosInClasses\MethosInClasses\bin\Debug\net10.0\MethosInClasses.deps.json
+D:\C-sharp\C#_OOP\MethosInClasses\MethosInClasses\bin\Debug\net10.0\MethosInClasses.runtimeconfig.json
+D:\C-sharp\C#_OOP\MethosInClasses\MethosInClasses\bin\Debug\net10.0\MethosInClasses.dll
+D:\C-sharp\C#_OOP\MethosInClasses\MethosInClasses\bin\Debug\net10.0\MethosInClasses.pdb
+D:\C-sharp\C#_OOP\MethosInClasses\MethosInClasses\obj\Debug\net10.0\MethosInClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp\C#_OOP\MethosInClasses\MethosInClasses\obj\Debug\net10.0\MethosInClasses.AssemblyInfoInputs.cache
+D:\C-sharp\C#_OOP\MethosInClasses\MethosInClasses\obj\Debug\net10.0\MethosInClasses.AssemblyInfo.cs
+D:\C-sharp\C#_OOP\MethosInClasses\MethosInClasses\obj\Debug\net10.0\MethosInClasses.csproj.CoreCompileInputs.cache
+D:\C-sharp\C#_OOP\MethosInClasses\MethosInClasses\obj\Debug\net10.0\MethosInClasses.dll
+D:\C-sharp\C#_OOP\MethosInClasses\MethosInClasses\obj\Debug\net10.0\refint\MethosInClasses.dll
+D:\C-sharp\C#_OOP\MethosInClasses\MethosInClasses\obj\Debug\net10.0\MethosInClasses.pdb
+D:\C-sharp\C#_OOP\MethosInClasses\MethosInClasses\obj\Debug\net10.0\MethosInClasses.genruntimeconfig.cache
+D:\C-sharp\C#_OOP\MethosInClasses\MethosInClasses\obj\Debug\net10.0\ref\MethosInClasses.dll

@@ -1,0 +1,14 @@
+D:\C-sharp\C#_Methods_Functions\MethodReturnAndParameters\MethodReturnAndParameters\bin\Debug\net10.0\MethodReturnAndParameters.exe
+D:\C-sharp\C#_Methods_Functions\MethodReturnAndParameters\MethodReturnAndParameters\bin\Debug\net10.0\MethodReturnAndParameters.deps.json
+D:\C-sharp\C#_Methods_Functions\MethodReturnAndParameters\MethodReturnAndParameters\bin\Debug\net10.0\MethodReturnAndParameters.runtimeconfig.json
+D:\C-sharp\C#_Methods_Functions\MethodReturnAndParameters\MethodReturnAndParameters\bin\Debug\net10.0\MethodReturnAndParameters.dll
+D:\C-sharp\C#_Methods_Functions\MethodReturnAndParameters\MethodReturnAndParameters\bin\Debug\net10.0\MethodReturnAndParameters.pdb
+D:\C-sharp\C#_Methods_Functions\MethodReturnAndParameters\MethodReturnAndParameters\obj\Debug\net10.0\MethodReturnAndParameters.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp\C#_Methods_Functions\MethodReturnAndParameters\MethodReturnAndParameters\obj\Debug\net10.0\MethodReturnAndParameters.AssemblyInfoInputs.cache
+D:\C-sharp\C#_Methods_Functions\MethodReturnAndParameters\MethodReturnAndParameters\obj\Debug\net10.0\MethodReturnAndParameters.AssemblyInfo.cs
+D:\C-sharp\C#_Methods_Functions\MethodReturnAndParameters\MethodReturnAndParameters\obj\Debug\net10.0\MethodReturnAndParameters.csproj.CoreCompileInputs.cache
+D:\C-sharp\C#_Methods_Functions\MethodReturnAndParameters\MethodReturnAndParameters\obj\Debug\net10.0\MethodReturnAndParameters.dll
+D:\C-sharp\C#_Methods_Functions\MethodReturnAndParameters\MethodReturnAndParameters\obj\Debug\net10.0\refint\MethodReturnAndParameters.dll
+D:\C-sharp\C#_Methods_Functions\MethodReturnAndParameters\MethodReturnAndParameters\obj\Debug\net10.0\MethodReturnAndParameters.pdb
+D:\C-sharp\C#_Methods_Functions\MethodReturnAndParameters\MethodReturnAndParameters\obj\Debug\net10.0\MethodReturnAndParameters.genruntimeconfig.cache
+D:\C-sharp\C#_Methods_Functions\MethodReturnAndParameters\MethodReturnAndParameters\obj\Debug\net10.0\ref\MethodReturnAndParameters.dll

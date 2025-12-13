@@ -1,0 +1,14 @@
+D:\C-sharp\C#_OOP\ClassesAndObjects\ClassesAndObjects\bin\Debug\net10.0\ClassesAndObjects.exe
+D:\C-sharp\C#_OOP\ClassesAndObjects\ClassesAndObjects\bin\Debug\net10.0\ClassesAndObjects.deps.json
+D:\C-sharp\C#_OOP\ClassesAndObjects\ClassesAndObjects\bin\Debug\net10.0\ClassesAndObjects.runtimeconfig.json
+D:\C-sharp\C#_OOP\ClassesAndObjects\ClassesAndObjects\bin\Debug\net10.0\ClassesAndObjects.dll
+D:\C-sharp\C#_OOP\ClassesAndObjects\ClassesAndObjects\bin\Debug\net10.0\ClassesAndObjects.pdb
+D:\C-sharp\C#_OOP\ClassesAndObjects\ClassesAndObjects\obj\Debug\net10.0\ClassesAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp\C#_OOP\ClassesAndObjects\ClassesAndObjects\obj\Debug\net10.0\ClassesAndObjects.AssemblyInfoInputs.cache
+D:\C-sharp\C#_OOP\ClassesAndObjects\ClassesAndObjects\obj\Debug\net10.0\ClassesAndObjects.AssemblyInfo.cs
+D:\C-sharp\C#_OOP\ClassesAndObjects\ClassesAndObjects\obj\Debug\net10.0\ClassesAndObjects.csproj.CoreCompileInputs.cache
+D:\C-sharp\C#_OOP\ClassesAndObjects\ClassesAndObjects\obj\Debug\net10.0\ClassesAndObjects.dll
+D:\C-sharp\C#_OOP\ClassesAndObjects\ClassesAndObjects\obj\Debug\net10.0\refint\ClassesAndObjects.dll
+D:\C-sharp\C#_OOP\ClassesAndObjects\ClassesAndObjects\obj\Debug\net10.0\ClassesAndObjects.pdb
+D:\C-sharp\C#_OOP\ClassesAndObjects\ClassesAndObjects\obj\Debug\net10.0\ClassesAndObjects.genruntimeconfig.cache
+D:\C-sharp\C#_OOP\ClassesAndObjects\ClassesAndObjects\obj\Debug\net10.0\ref\ClassesAndObjects.dll

@@ -1,0 +1,14 @@
+D:\C-sharp\C#_Basics_Conditions_Loops\BooleanExpression_If_Else\BooleanExpression\bin\Debug\net10.0\BooleanExpression_If_Else.exe
+D:\C-sharp\C#_Basics_Conditions_Loops\BooleanExpression_If_Else\BooleanExpression\bin\Debug\net10.0\BooleanExpression_If_Else.deps.json
+D:\C-sharp\C#_Basics_Conditions_Loops\BooleanExpression_If_Else\BooleanExpression\bin\Debug\net10.0\BooleanExpression_If_Else.runtimeconfig.json
+D:\C-sharp\C#_Basics_Conditions_Loops\BooleanExpression_If_Else\BooleanExpression\bin\Debug\net10.0\BooleanExpression_If_Else.dll
+D:\C-sharp\C#_Basics_Conditions_Loops\BooleanExpression_If_Else\BooleanExpression\bin\Debug\net10.0\BooleanExpression_If_Else.pdb
+D:\C-sharp\C#_Basics_Conditions_Loops\BooleanExpression_If_Else\BooleanExpression\obj\Debug\net10.0\BooleanExpression_If_Else.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp\C#_Basics_Conditions_Loops\BooleanExpression_If_Else\BooleanExpression\obj\Debug\net10.0\BooleanExpression_If_Else.AssemblyInfoInputs.cache
+D:\C-sharp\C#_Basics_Conditions_Loops\BooleanExpression_If_Else\BooleanExpression\obj\Debug\net10.0\BooleanExpression_If_Else.AssemblyInfo.cs
+D:\C-sharp\C#_Basics_Conditions_Loops\BooleanExpression_If_Else\BooleanExpression\obj\Debug\net10.0\BooleanExpression_If_Else.csproj.CoreCompileInputs.cache
+D:\C-sharp\C#_Basics_Conditions_Loops\BooleanExpression_If_Else\BooleanExpression\obj\Debug\net10.0\BooleanExpression_If_Else.dll
+D:\C-sharp\C#_Basics_Conditions_Loops\BooleanExpression_If_Else\BooleanExpression\obj\Debug\net10.0\refint\BooleanExpression_If_Else.dll
+D:\C-sharp\C#_Basics_Conditions_Loops\BooleanExpression_If_Else\BooleanExpression\obj\Debug\net10.0\BooleanExpression_If_Else.pdb
+D:\C-sharp\C#_Basics_Conditions_Loops\BooleanExpression_If_Else\BooleanExpression\obj\Debug\net10.0\BooleanExpression_If_Else.genruntimeconfig.cache
+D:\C-sharp\C#_Basics_Conditions_Loops\BooleanExpression_If_Else\BooleanExpression\obj\Debug\net10.0\ref\BooleanExpression_If_Else.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C-sharp\\C#_Loops_Arrays\\Loops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33162797-D274-D315-1C8E-BD08C6CE0137}|Loops\\Loops.csproj|d:\\c-sharp\\c#_loops_arrays\\loops\\loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33162797-D274-D315-1C8E-BD08C6CE0137}|Loops\\Loops.csproj|solutionrelative:loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C-sharp\\C#_Loops_Arrays\\Loops\\Loops\\Program.cs",
+              "RelativeDocumentMoniker": "Loops\\Program.cs",
+              "ToolTip": "D:\\C-sharp\\C#_Loops_Arrays\\Loops\\Loops\\Program.cs",
+              "RelativeToolTip": "Loops\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T12:02:17.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

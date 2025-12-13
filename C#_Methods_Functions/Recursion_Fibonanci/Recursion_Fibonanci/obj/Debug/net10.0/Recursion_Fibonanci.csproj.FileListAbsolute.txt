@@ -1,0 +1,14 @@
+D:\C-sharp\C#_Methods_Functions\Recursion_Fibonanci\Recursion_Fibonanci\bin\Debug\net10.0\Recursion_Fibonanci.exe
+D:\C-sharp\C#_Methods_Functions\Recursion_Fibonanci\Recursion_Fibonanci\bin\Debug\net10.0\Recursion_Fibonanci.deps.json
+D:\C-sharp\C#_Methods_Functions\Recursion_Fibonanci\Recursion_Fibonanci\bin\Debug\net10.0\Recursion_Fibonanci.runtimeconfig.json
+D:\C-sharp\C#_Methods_Functions\Recursion_Fibonanci\Recursion_Fibonanci\bin\Debug\net10.0\Recursion_Fibonanci.dll
+D:\C-sharp\C#_Methods_Functions\Recursion_Fibonanci\Recursion_Fibonanci\bin\Debug\net10.0\Recursion_Fibonanci.pdb
+D:\C-sharp\C#_Methods_Functions\Recursion_Fibonanci\Recursion_Fibonanci\obj\Debug\net10.0\Recursion_Fibonanci.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp\C#_Methods_Functions\Recursion_Fibonanci\Recursion_Fibonanci\obj\Debug\net10.0\Recursion_Fibonanci.AssemblyInfoInputs.cache
+D:\C-sharp\C#_Methods_Functions\Recursion_Fibonanci\Recursion_Fibonanci\obj\Debug\net10.0\Recursion_Fibonanci.AssemblyInfo.cs
+D:\C-sharp\C#_Methods_Functions\Recursion_Fibonanci\Recursion_Fibonanci\obj\Debug\net10.0\Recursion_Fibonanci.csproj.CoreCompileInputs.cache
+D:\C-sharp\C#_Methods_Functions\Recursion_Fibonanci\Recursion_Fibonanci\obj\Debug\net10.0\Recursion_Fibonanci.dll
+D:\C-sharp\C#_Methods_Functions\Recursion_Fibonanci\Recursion_Fibonanci\obj\Debug\net10.0\refint\Recursion_Fibonanci.dll
+D:\C-sharp\C#_Methods_Functions\Recursion_Fibonanci\Recursion_Fibonanci\obj\Debug\net10.0\Recursion_Fibonanci.pdb
+D:\C-sharp\C#_Methods_Functions\Recursion_Fibonanci\Recursion_Fibonanci\obj\Debug\net10.0\Recursion_Fibonanci.genruntimeconfig.cache
+D:\C-sharp\C#_Methods_Functions\Recursion_Fibonanci\Recursion_Fibonanci\obj\Debug\net10.0\ref\Recursion_Fibonanci.dll

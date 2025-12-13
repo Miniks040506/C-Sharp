@@ -1,0 +1,14 @@
+D:\C-sharp\C#_Basics_Conditions_Loops\MiniQuizApp\MiniQuizApp\bin\Debug\net10.0\MiniQuizApp.exe
+D:\C-sharp\C#_Basics_Conditions_Loops\MiniQuizApp\MiniQuizApp\bin\Debug\net10.0\MiniQuizApp.deps.json
+D:\C-sharp\C#_Basics_Conditions_Loops\MiniQuizApp\MiniQuizApp\bin\Debug\net10.0\MiniQuizApp.runtimeconfig.json
+D:\C-sharp\C#_Basics_Conditions_Loops\MiniQuizApp\MiniQuizApp\bin\Debug\net10.0\MiniQuizApp.dll
+D:\C-sharp\C#_Basics_Conditions_Loops\MiniQuizApp\MiniQuizApp\bin\Debug\net10.0\MiniQuizApp.pdb
+D:\C-sharp\C#_Basics_Conditions_Loops\MiniQuizApp\MiniQuizApp\obj\Debug\net10.0\MiniQuizApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp\C#_Basics_Conditions_Loops\MiniQuizApp\MiniQuizApp\obj\Debug\net10.0\MiniQuizApp.AssemblyInfoInputs.cache
+D:\C-sharp\C#_Basics_Conditions_Loops\MiniQuizApp\MiniQuizApp\obj\Debug\net10.0\MiniQuizApp.AssemblyInfo.cs
+D:\C-sharp\C#_Basics_Conditions_Loops\MiniQuizApp\MiniQuizApp\obj\Debug\net10.0\MiniQuizApp.csproj.CoreCompileInputs.cache
+D:\C-sharp\C#_Basics_Conditions_Loops\MiniQuizApp\MiniQuizApp\obj\Debug\net10.0\MiniQuizApp.dll
+D:\C-sharp\C#_Basics_Conditions_Loops\MiniQuizApp\MiniQuizApp\obj\Debug\net10.0\refint\MiniQuizApp.dll
+D:\C-sharp\C#_Basics_Conditions_Loops\MiniQuizApp\MiniQuizApp\obj\Debug\net10.0\MiniQuizApp.pdb
+D:\C-sharp\C#_Basics_Conditions_Loops\MiniQuizApp\MiniQuizApp\obj\Debug\net10.0\MiniQuizApp.genruntimeconfig.cache
+D:\C-sharp\C#_Basics_Conditions_Loops\MiniQuizApp\MiniQuizApp\obj\Debug\net10.0\ref\MiniQuizApp.dll

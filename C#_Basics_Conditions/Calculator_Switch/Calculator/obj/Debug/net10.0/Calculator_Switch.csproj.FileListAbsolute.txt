@@ -1,0 +1,14 @@
+D:\C-sharp\C#_Basics_Conditions_Loops\Calculator_Switch\Calculator\bin\Debug\net10.0\Calculator_Switch.exe
+D:\C-sharp\C#_Basics_Conditions_Loops\Calculator_Switch\Calculator\bin\Debug\net10.0\Calculator_Switch.deps.json
+D:\C-sharp\C#_Basics_Conditions_Loops\Calculator_Switch\Calculator\bin\Debug\net10.0\Calculator_Switch.runtimeconfig.json
+D:\C-sharp\C#_Basics_Conditions_Loops\Calculator_Switch\Calculator\bin\Debug\net10.0\Calculator_Switch.dll
+D:\C-sharp\C#_Basics_Conditions_Loops\Calculator_Switch\Calculator\bin\Debug\net10.0\Calculator_Switch.pdb
+D:\C-sharp\C#_Basics_Conditions_Loops\Calculator_Switch\Calculator\obj\Debug\net10.0\Calculator_Switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp\C#_Basics_Conditions_Loops\Calculator_Switch\Calculator\obj\Debug\net10.0\Calculator_Switch.AssemblyInfoInputs.cache
+D:\C-sharp\C#_Basics_Conditions_Loops\Calculator_Switch\Calculator\obj\Debug\net10.0\Calculator_Switch.AssemblyInfo.cs
+D:\C-sharp\C#_Basics_Conditions_Loops\Calculator_Switch\Calculator\obj\Debug\net10.0\Calculator_Switch.csproj.CoreCompileInputs.cache
+D:\C-sharp\C#_Basics_Conditions_Loops\Calculator_Switch\Calculator\obj\Debug\net10.0\Calculator_Switch.dll
+D:\C-sharp\C#_Basics_Conditions_Loops\Calculator_Switch\Calculator\obj\Debug\net10.0\refint\Calculator_Switch.dll
+D:\C-sharp\C#_Basics_Conditions_Loops\Calculator_Switch\Calculator\obj\Debug\net10.0\Calculator_Switch.pdb
+D:\C-sharp\C#_Basics_Conditions_Loops\Calculator_Switch\Calculator\obj\Debug\net10.0\Calculator_Switch.genruntimeconfig.cache
+D:\C-sharp\C#_Basics_Conditions_Loops\Calculator_Switch\Calculator\obj\Debug\net10.0\ref\Calculator_Switch.dll

@@ -1,0 +1,14 @@
+D:\C-sharp\C#_Loops_Arrays\WhileAndDoWhile\WhileAndDoWhile\bin\Debug\net10.0\WhileAndDoWhile.exe
+D:\C-sharp\C#_Loops_Arrays\WhileAndDoWhile\WhileAndDoWhile\bin\Debug\net10.0\WhileAndDoWhile.deps.json
+D:\C-sharp\C#_Loops_Arrays\WhileAndDoWhile\WhileAndDoWhile\bin\Debug\net10.0\WhileAndDoWhile.runtimeconfig.json
+D:\C-sharp\C#_Loops_Arrays\WhileAndDoWhile\WhileAndDoWhile\bin\Debug\net10.0\WhileAndDoWhile.dll
+D:\C-sharp\C#_Loops_Arrays\WhileAndDoWhile\WhileAndDoWhile\bin\Debug\net10.0\WhileAndDoWhile.pdb
+D:\C-sharp\C#_Loops_Arrays\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net10.0\WhileAndDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp\C#_Loops_Arrays\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net10.0\WhileAndDoWhile.AssemblyInfoInputs.cache
+D:\C-sharp\C#_Loops_Arrays\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net10.0\WhileAndDoWhile.AssemblyInfo.cs
+D:\C-sharp\C#_Loops_Arrays\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net10.0\WhileAndDoWhile.csproj.CoreCompileInputs.cache
+D:\C-sharp\C#_Loops_Arrays\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net10.0\WhileAndDoWhile.dll
+D:\C-sharp\C#_Loops_Arrays\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net10.0\refint\WhileAndDoWhile.dll
+D:\C-sharp\C#_Loops_Arrays\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net10.0\WhileAndDoWhile.pdb
+D:\C-sharp\C#_Loops_Arrays\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net10.0\WhileAndDoWhile.genruntimeconfig.cache
+D:\C-sharp\C#_Loops_Arrays\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net10.0\ref\WhileAndDoWhile.dll

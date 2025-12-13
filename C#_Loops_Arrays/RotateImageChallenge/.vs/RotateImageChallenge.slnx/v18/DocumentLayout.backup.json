@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C-sharp\\C#_Loops_Arrays\\RotateImageChallenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C3DE08-D024-4353-90FA-F309A0CC9AAC}|RotateImageChallenge\\RotateImageChallenge.csproj|d:\\c-sharp\\c#_loops_arrays\\rotateimagechallenge\\rotateimagechallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C3DE08-D024-4353-90FA-F309A0CC9AAC}|RotateImageChallenge\\RotateImageChallenge.csproj|solutionrelative:rotateimagechallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C-sharp\\C#_Loops_Arrays\\RotateImageChallenge\\RotateImageChallenge\\Program.cs",
+              "RelativeDocumentMoniker": "RotateImageChallenge\\Program.cs",
+              "ToolTip": "D:\\C-sharp\\C#_Loops_Arrays\\RotateImageChallenge\\RotateImageChallenge\\Program.cs*",
+              "RelativeToolTip": "RotateImageChallenge\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T08:27:04.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

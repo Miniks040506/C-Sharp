@@ -1,0 +1,14 @@
+D:\C-sharp\C#_Loops_Arrays\Arrays_Foreach\Arrays\bin\Debug\net10.0\Arrays_Foreach.exe
+D:\C-sharp\C#_Loops_Arrays\Arrays_Foreach\Arrays\bin\Debug\net10.0\Arrays_Foreach.deps.json
+D:\C-sharp\C#_Loops_Arrays\Arrays_Foreach\Arrays\bin\Debug\net10.0\Arrays_Foreach.runtimeconfig.json
+D:\C-sharp\C#_Loops_Arrays\Arrays_Foreach\Arrays\bin\Debug\net10.0\Arrays_Foreach.dll
+D:\C-sharp\C#_Loops_Arrays\Arrays_Foreach\Arrays\bin\Debug\net10.0\Arrays_Foreach.pdb
+D:\C-sharp\C#_Loops_Arrays\Arrays_Foreach\Arrays\obj\Debug\net10.0\Arrays_Foreach.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp\C#_Loops_Arrays\Arrays_Foreach\Arrays\obj\Debug\net10.0\Arrays_Foreach.AssemblyInfoInputs.cache
+D:\C-sharp\C#_Loops_Arrays\Arrays_Foreach\Arrays\obj\Debug\net10.0\Arrays_Foreach.AssemblyInfo.cs
+D:\C-sharp\C#_Loops_Arrays\Arrays_Foreach\Arrays\obj\Debug\net10.0\Arrays_Foreach.csproj.CoreCompileInputs.cache
+D:\C-sharp\C#_Loops_Arrays\Arrays_Foreach\Arrays\obj\Debug\net10.0\Arrays_Foreach.dll
+D:\C-sharp\C#_Loops_Arrays\Arrays_Foreach\Arrays\obj\Debug\net10.0\refint\Arrays_Foreach.dll
+D:\C-sharp\C#_Loops_Arrays\Arrays_Foreach\Arrays\obj\Debug\net10.0\Arrays_Foreach.pdb
+D:\C-sharp\C#_Loops_Arrays\Arrays_Foreach\Arrays\obj\Debug\net10.0\Arrays_Foreach.genruntimeconfig.cache
+D:\C-sharp\C#_Loops_Arrays\Arrays_Foreach\Arrays\obj\Debug\net10.0\ref\Arrays_Foreach.dll

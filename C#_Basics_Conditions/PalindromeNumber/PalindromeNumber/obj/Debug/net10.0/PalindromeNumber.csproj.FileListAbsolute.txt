@@ -1,0 +1,14 @@
+D:\C-sharp\C#_Basics_Conditions_Loops\PalindromeNumber\PalindromeNumber\bin\Debug\net10.0\PalindromeNumber.exe
+D:\C-sharp\C#_Basics_Conditions_Loops\PalindromeNumber\PalindromeNumber\bin\Debug\net10.0\PalindromeNumber.deps.json
+D:\C-sharp\C#_Basics_Conditions_Loops\PalindromeNumber\PalindromeNumber\bin\Debug\net10.0\PalindromeNumber.runtimeconfig.json
+D:\C-sharp\C#_Basics_Conditions_Loops\PalindromeNumber\PalindromeNumber\bin\Debug\net10.0\PalindromeNumber.dll
+D:\C-sharp\C#_Basics_Conditions_Loops\PalindromeNumber\PalindromeNumber\bin\Debug\net10.0\PalindromeNumber.pdb
+D:\C-sharp\C#_Basics_Conditions_Loops\PalindromeNumber\PalindromeNumber\obj\Debug\net10.0\PalindromeNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp\C#_Basics_Conditions_Loops\PalindromeNumber\PalindromeNumber\obj\Debug\net10.0\PalindromeNumber.AssemblyInfoInputs.cache
+D:\C-sharp\C#_Basics_Conditions_Loops\PalindromeNumber\PalindromeNumber\obj\Debug\net10.0\PalindromeNumber.AssemblyInfo.cs
+D:\C-sharp\C#_Basics_Conditions_Loops\PalindromeNumber\PalindromeNumber\obj\Debug\net10.0\PalindromeNumber.csproj.CoreCompileInputs.cache
+D:\C-sharp\C#_Basics_Conditions_Loops\PalindromeNumber\PalindromeNumber\obj\Debug\net10.0\PalindromeNumber.dll
+D:\C-sharp\C#_Basics_Conditions_Loops\PalindromeNumber\PalindromeNumber\obj\Debug\net10.0\refint\PalindromeNumber.dll
+D:\C-sharp\C#_Basics_Conditions_Loops\PalindromeNumber\PalindromeNumber\obj\Debug\net10.0\PalindromeNumber.pdb
+D:\C-sharp\C#_Basics_Conditions_Loops\PalindromeNumber\PalindromeNumber\obj\Debug\net10.0\PalindromeNumber.genruntimeconfig.cache
+D:\C-sharp\C#_Basics_Conditions_Loops\PalindromeNumber\PalindromeNumber\obj\Debug\net10.0\ref\PalindromeNumber.dll

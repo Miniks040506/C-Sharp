@@ -1,0 +1,14 @@
+D:\C-sharp\C#_Methods_Functions\WeatherSimulator\WeatherSimulator\bin\Debug\net10.0\WeatherSimulator.exe
+D:\C-sharp\C#_Methods_Functions\WeatherSimulator\WeatherSimulator\bin\Debug\net10.0\WeatherSimulator.deps.json
+D:\C-sharp\C#_Methods_Functions\WeatherSimulator\WeatherSimulator\bin\Debug\net10.0\WeatherSimulator.runtimeconfig.json
+D:\C-sharp\C#_Methods_Functions\WeatherSimulator\WeatherSimulator\bin\Debug\net10.0\WeatherSimulator.dll
+D:\C-sharp\C#_Methods_Functions\WeatherSimulator\WeatherSimulator\bin\Debug\net10.0\WeatherSimulator.pdb
+D:\C-sharp\C#_Methods_Functions\WeatherSimulator\WeatherSimulator\obj\Debug\net10.0\WeatherSimulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp\C#_Methods_Functions\WeatherSimulator\WeatherSimulator\obj\Debug\net10.0\WeatherSimulator.AssemblyInfoInputs.cache
+D:\C-sharp\C#_Methods_Functions\WeatherSimulator\WeatherSimulator\obj\Debug\net10.0\WeatherSimulator.AssemblyInfo.cs
+D:\C-sharp\C#_Methods_Functions\WeatherSimulator\WeatherSimulator\obj\Debug\net10.0\WeatherSimulator.csproj.CoreCompileInputs.cache
+D:\C-sharp\C#_Methods_Functions\WeatherSimulator\WeatherSimulator\obj\Debug\net10.0\WeatherSimulator.dll
+D:\C-sharp\C#_Methods_Functions\WeatherSimulator\WeatherSimulator\obj\Debug\net10.0\refint\WeatherSimulator.dll
+D:\C-sharp\C#_Methods_Functions\WeatherSimulator\WeatherSimulator\obj\Debug\net10.0\WeatherSimulator.pdb
+D:\C-sharp\C#_Methods_Functions\WeatherSimulator\WeatherSimulator\obj\Debug\net10.0\WeatherSimulator.genruntimeconfig.cache
+D:\C-sharp\C#_Methods_Functions\WeatherSimulator\WeatherSimulator\obj\Debug\net10.0\ref\WeatherSimulator.dll

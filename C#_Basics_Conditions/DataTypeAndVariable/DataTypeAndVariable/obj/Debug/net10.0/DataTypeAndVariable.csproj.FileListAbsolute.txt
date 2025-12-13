@@ -1,0 +1,14 @@
+D:\C-sharp\C#_Basic\DataTypeAndVariable\DataTypeAndVariable\bin\Debug\net10.0\DataTypeAndVariable.exe
+D:\C-sharp\C#_Basic\DataTypeAndVariable\DataTypeAndVariable\bin\Debug\net10.0\DataTypeAndVariable.deps.json
+D:\C-sharp\C#_Basic\DataTypeAndVariable\DataTypeAndVariable\bin\Debug\net10.0\DataTypeAndVariable.runtimeconfig.json
+D:\C-sharp\C#_Basic\DataTypeAndVariable\DataTypeAndVariable\bin\Debug\net10.0\DataTypeAndVariable.dll
+D:\C-sharp\C#_Basic\DataTypeAndVariable\DataTypeAndVariable\bin\Debug\net10.0\DataTypeAndVariable.pdb
+D:\C-sharp\C#_Basic\DataTypeAndVariable\DataTypeAndVariable\obj\Debug\net10.0\DataTypeAndVariable.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp\C#_Basic\DataTypeAndVariable\DataTypeAndVariable\obj\Debug\net10.0\DataTypeAndVariable.AssemblyInfoInputs.cache
+D:\C-sharp\C#_Basic\DataTypeAndVariable\DataTypeAndVariable\obj\Debug\net10.0\DataTypeAndVariable.AssemblyInfo.cs
+D:\C-sharp\C#_Basic\DataTypeAndVariable\DataTypeAndVariable\obj\Debug\net10.0\DataTypeAndVariable.csproj.CoreCompileInputs.cache
+D:\C-sharp\C#_Basic\DataTypeAndVariable\DataTypeAndVariable\obj\Debug\net10.0\DataTypeAndVariable.dll
+D:\C-sharp\C#_Basic\DataTypeAndVariable\DataTypeAndVariable\obj\Debug\net10.0\refint\DataTypeAndVariable.dll
+D:\C-sharp\C#_Basic\DataTypeAndVariable\DataTypeAndVariable\obj\Debug\net10.0\DataTypeAndVariable.pdb
+D:\C-sharp\C#_Basic\DataTypeAndVariable\DataTypeAndVariable\obj\Debug\net10.0\DataTypeAndVariable.genruntimeconfig.cache
+D:\C-sharp\C#_Basic\DataTypeAndVariable\DataTypeAndVariable\obj\Debug\net10.0\ref\DataTypeAndVariable.dll
