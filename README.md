@@ -1,2 +1,2 @@
-# C-
+# C#
 Lesson about C#
