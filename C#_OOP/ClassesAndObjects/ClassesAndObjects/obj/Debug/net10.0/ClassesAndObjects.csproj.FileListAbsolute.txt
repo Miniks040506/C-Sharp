@@ -12,3 +12,4 @@ D:\C-sharp\C#_OOP\ClassesAndObjects\ClassesAndObjects\obj\Debug\net10.0\refint\C
 D:\C-sharp\C#_OOP\ClassesAndObjects\ClassesAndObjects\obj\Debug\net10.0\ClassesAndObjects.pdb
 D:\C-sharp\C#_OOP\ClassesAndObjects\ClassesAndObjects\obj\Debug\net10.0\ClassesAndObjects.genruntimeconfig.cache
 D:\C-sharp\C#_OOP\ClassesAndObjects\ClassesAndObjects\obj\Debug\net10.0\ref\ClassesAndObjects.dll
+D:\C-sharp\C#_OOP\ClassesAndObjects\ClassesAndObjects\obj\Debug\net10.0\ClassesAndObjects.sourcelink.json

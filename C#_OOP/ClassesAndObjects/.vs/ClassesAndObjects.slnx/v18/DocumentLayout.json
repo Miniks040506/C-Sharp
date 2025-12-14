@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\C-sharp\\C#_OOP\\ClassesAndObjects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7974089-5137-80A8-E492-3CA70663B0A3}|ClassesAndObjects\\ClassesAndObjects.csproj|d:\\c-sharp\\c#_oop\\classesandobjects\\classesandobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7974089-5137-80A8-E492-3CA70663B0A3}|ClassesAndObjects\\ClassesAndObjects.csproj|solutionrelative:classesandobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7974089-5137-80A8-E492-3CA70663B0A3}|ClassesAndObjects\\ClassesAndObjects.csproj|d:\\c-sharp\\c#_oop\\classesandobjects\\classesandobjects\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7974089-5137-80A8-E492-3CA70663B0A3}|ClassesAndObjects\\ClassesAndObjects.csproj|solutionrelative:classesandobjects\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7974089-5137-80A8-E492-3CA70663B0A3}|ClassesAndObjects\\ClassesAndObjects.csproj|d:\\c-sharp\\c#_oop\\classesandobjects\\classesandobjects\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7974089-5137-80A8-E492-3CA70663B0A3}|ClassesAndObjects\\ClassesAndObjects.csproj|solutionrelative:classesandobjects\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7974089-5137-80A8-E492-3CA70663B0A3}|ClassesAndObjects\\ClassesAndObjects.csproj|d:\\c-sharp\\c#_oop\\classesandobjects\\classesandobjects\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7974089-5137-80A8-E492-3CA70663B0A3}|ClassesAndObjects\\ClassesAndObjects.csproj|solutionrelative:classesandobjects\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7974089-5137-80A8-E492-3CA70663B0A3}|ClassesAndObjects\\ClassesAndObjects.csproj|d:\\c-sharp\\c#_oop\\classesandobjects\\classesandobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7974089-5137-80A8-E492-3CA70663B0A3}|ClassesAndObjects\\ClassesAndObjects.csproj|solutionrelative:classesandobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7974089-5137-80A8-E492-3CA70663B0A3}|ClassesAndObjects\\ClassesAndObjects.csproj|d:\\c-sharp\\c#_oop\\classesandobjects\\classesandobjects\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7974089-5137-80A8-E492-3CA70663B0A3}|ClassesAndObjects\\ClassesAndObjects.csproj|solutionrelative:classesandobjects\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7974089-5137-80A8-E492-3CA70663B0A3}|ClassesAndObjects\\ClassesAndObjects.csproj|d:\\c-sharp\\c#_oop\\classesandobjects\\classesandobjects\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7974089-5137-80A8-E492-3CA70663B0A3}|ClassesAndObjects\\ClassesAndObjects.csproj|solutionrelative:classesandobjects\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Rectangle.cs",
               "DocumentMoniker": "D:\\C-sharp\\C#_OOP\\ClassesAndObjects\\ClassesAndObjects\\Rectangle.cs",
               "RelativeDocumentMoniker": "ClassesAndObjects\\Rectangle.cs",
               "ToolTip": "D:\\C-sharp\\C#_OOP\\ClassesAndObjects\\ClassesAndObjects\\Rectangle.cs",
               "RelativeToolTip": "ClassesAndObjects\\Rectangle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCsAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-13T08:26:54.656Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\C-sharp\\C#_OOP\\ClassesAndObjects\\ClassesAndObjects\\Customer.cs",
               "RelativeDocumentMoniker": "ClassesAndObjects\\Customer.cs",
@@ -51,8 +51,7 @@
               "RelativeToolTip": "ClassesAndObjects\\Customer.cs",
               "ViewState": "AgIAACEAAACAcGPLGaYowD4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T02:02:19.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-12T02:02:19.701Z"
             },
             {
               "$type": "Document",
@@ -69,13 +68,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C-sharp\\C#_OOP\\ClassesAndObjects\\ClassesAndObjects\\Program.cs",
               "RelativeDocumentMoniker": "ClassesAndObjects\\Program.cs",
               "ToolTip": "D:\\C-sharp\\C#_OOP\\ClassesAndObjects\\ClassesAndObjects\\Program.cs",
               "RelativeToolTip": "ClassesAndObjects\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAYwDsAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-11T13:44:58.612Z",
               "EditorCaption": ""

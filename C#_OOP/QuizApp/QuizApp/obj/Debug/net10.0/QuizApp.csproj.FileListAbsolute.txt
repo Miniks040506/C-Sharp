@@ -1,0 +1,15 @@
+D:\C-sharp\C#_OOP\QuizApp\QuizApp\bin\Debug\net10.0\QuizApp.exe
+D:\C-sharp\C#_OOP\QuizApp\QuizApp\bin\Debug\net10.0\QuizApp.deps.json
+D:\C-sharp\C#_OOP\QuizApp\QuizApp\bin\Debug\net10.0\QuizApp.runtimeconfig.json
+D:\C-sharp\C#_OOP\QuizApp\QuizApp\bin\Debug\net10.0\QuizApp.dll
+D:\C-sharp\C#_OOP\QuizApp\QuizApp\bin\Debug\net10.0\QuizApp.pdb
+D:\C-sharp\C#_OOP\QuizApp\QuizApp\obj\Debug\net10.0\QuizApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp\C#_OOP\QuizApp\QuizApp\obj\Debug\net10.0\QuizApp.AssemblyInfoInputs.cache
+D:\C-sharp\C#_OOP\QuizApp\QuizApp\obj\Debug\net10.0\QuizApp.AssemblyInfo.cs
+D:\C-sharp\C#_OOP\QuizApp\QuizApp\obj\Debug\net10.0\QuizApp.csproj.CoreCompileInputs.cache
+D:\C-sharp\C#_OOP\QuizApp\QuizApp\obj\Debug\net10.0\QuizApp.sourcelink.json
+D:\C-sharp\C#_OOP\QuizApp\QuizApp\obj\Debug\net10.0\QuizApp.dll
+D:\C-sharp\C#_OOP\QuizApp\QuizApp\obj\Debug\net10.0\refint\QuizApp.dll
+D:\C-sharp\C#_OOP\QuizApp\QuizApp\obj\Debug\net10.0\QuizApp.pdb
+D:\C-sharp\C#_OOP\QuizApp\QuizApp\obj\Debug\net10.0\QuizApp.genruntimeconfig.cache
+D:\C-sharp\C#_OOP\QuizApp\QuizApp\obj\Debug\net10.0\ref\QuizApp.dll

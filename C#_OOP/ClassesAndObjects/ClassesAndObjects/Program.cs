@@ -33,19 +33,22 @@
             //Console.WriteLine("Details about customer " + myCust.Name);
 
             // Rectangle don't have constructor -> default constructor
-            Rectangle rec = new Rectangle();
-            rec.Width = 5;
-            rec.Height = 7;
-            Console.WriteLine("Area of rec is " + rec.Area);
+            //Rectangle rec = new Rectangle();
+            //rec.Width = 5;
+            //rec.Height = 7;
+            //Console.WriteLine("Area of rec is " + rec.Area);
 
-            rec.Height = 10;
-            Console.WriteLine("Area of rec is " + rec.Area);
-
+            //rec.Height = 10;
+            //Console.WriteLine("Area of rec is " + rec.Area);
+            
             //static method call : ClassName.MethodName();
             //static is mean that it belong itself, not any instance/object
            
-            Rectangle.ShapeIntroduce(rec.Width, rec.Height);
+            //Rectangle.ShapeIntroduce(rec.Width, rec.Height);
 
+            // PART 2
+            // -----------------------------------------------------------
+            
             Cars car = new Cars();
             Cars car2 = new Cars("A3", "Audi", false);
             Cars car3 = new Cars("I7", "BMW", true);
@@ -64,8 +67,10 @@
             customer2.GetDetails();
             customer3.GetDetails();
 
-            
-            
+            Rectangle rec1 = new Rectangle("Red");
+            Rectangle rec2 = new Rectangle("Blue");
+            rec1.DisplayDetails();
+            rec2.DisplayDetails();
 
             Console.ReadKey();
         }
