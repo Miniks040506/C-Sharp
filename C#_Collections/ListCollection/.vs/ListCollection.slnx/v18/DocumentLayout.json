@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C-sharp\\C#_Collections\\ListCollection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13AA5A58-1855-95F8-A06E-AB6CFAB8F328}|ListCollection\\ListCollection.csproj|d:\\c-sharp\\c#_collections\\listcollection\\listcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AA5A58-1855-95F8-A06E-AB6CFAB8F328}|ListCollection\\ListCollection.csproj|solutionrelative:listcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C-sharp\\C#_Collections\\ListCollection\\ListCollection\\Program.cs",
+              "RelativeDocumentMoniker": "ListCollection\\Program.cs",
+              "ToolTip": "D:\\C-sharp\\C#_Collections\\ListCollection\\ListCollection\\Program.cs",
+              "RelativeToolTip": "ListCollection\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T12:06:54.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

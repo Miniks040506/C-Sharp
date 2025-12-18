@@ -1,0 +1,15 @@
+D:\C-sharp\C#_Collections\Dictionaries\Dictionaries\bin\Debug\net10.0\Dictionaries.exe
+D:\C-sharp\C#_Collections\Dictionaries\Dictionaries\bin\Debug\net10.0\Dictionaries.deps.json
+D:\C-sharp\C#_Collections\Dictionaries\Dictionaries\bin\Debug\net10.0\Dictionaries.runtimeconfig.json
+D:\C-sharp\C#_Collections\Dictionaries\Dictionaries\bin\Debug\net10.0\Dictionaries.dll
+D:\C-sharp\C#_Collections\Dictionaries\Dictionaries\bin\Debug\net10.0\Dictionaries.pdb
+D:\C-sharp\C#_Collections\Dictionaries\Dictionaries\obj\Debug\net10.0\Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp\C#_Collections\Dictionaries\Dictionaries\obj\Debug\net10.0\Dictionaries.AssemblyInfoInputs.cache
+D:\C-sharp\C#_Collections\Dictionaries\Dictionaries\obj\Debug\net10.0\Dictionaries.AssemblyInfo.cs
+D:\C-sharp\C#_Collections\Dictionaries\Dictionaries\obj\Debug\net10.0\Dictionaries.csproj.CoreCompileInputs.cache
+D:\C-sharp\C#_Collections\Dictionaries\Dictionaries\obj\Debug\net10.0\Dictionaries.sourcelink.json
+D:\C-sharp\C#_Collections\Dictionaries\Dictionaries\obj\Debug\net10.0\Dictionaries.dll
+D:\C-sharp\C#_Collections\Dictionaries\Dictionaries\obj\Debug\net10.0\refint\Dictionaries.dll
+D:\C-sharp\C#_Collections\Dictionaries\Dictionaries\obj\Debug\net10.0\Dictionaries.pdb
+D:\C-sharp\C#_Collections\Dictionaries\Dictionaries\obj\Debug\net10.0\Dictionaries.genruntimeconfig.cache
+D:\C-sharp\C#_Collections\Dictionaries\Dictionaries\obj\Debug\net10.0\ref\Dictionaries.dll

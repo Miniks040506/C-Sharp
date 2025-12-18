@@ -1,0 +1,15 @@
+D:\C-sharp\C#_Collections\ArrayLists\ArrayLists\bin\Debug\net10.0\ArrayLists.exe
+D:\C-sharp\C#_Collections\ArrayLists\ArrayLists\bin\Debug\net10.0\ArrayLists.deps.json
+D:\C-sharp\C#_Collections\ArrayLists\ArrayLists\bin\Debug\net10.0\ArrayLists.runtimeconfig.json
+D:\C-sharp\C#_Collections\ArrayLists\ArrayLists\bin\Debug\net10.0\ArrayLists.dll
+D:\C-sharp\C#_Collections\ArrayLists\ArrayLists\bin\Debug\net10.0\ArrayLists.pdb
+D:\C-sharp\C#_Collections\ArrayLists\ArrayLists\obj\Debug\net10.0\ArrayLists.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp\C#_Collections\ArrayLists\ArrayLists\obj\Debug\net10.0\ArrayLists.AssemblyInfoInputs.cache
+D:\C-sharp\C#_Collections\ArrayLists\ArrayLists\obj\Debug\net10.0\ArrayLists.AssemblyInfo.cs
+D:\C-sharp\C#_Collections\ArrayLists\ArrayLists\obj\Debug\net10.0\ArrayLists.csproj.CoreCompileInputs.cache
+D:\C-sharp\C#_Collections\ArrayLists\ArrayLists\obj\Debug\net10.0\ArrayLists.sourcelink.json
+D:\C-sharp\C#_Collections\ArrayLists\ArrayLists\obj\Debug\net10.0\ArrayLists.dll
+D:\C-sharp\C#_Collections\ArrayLists\ArrayLists\obj\Debug\net10.0\refint\ArrayLists.dll
+D:\C-sharp\C#_Collections\ArrayLists\ArrayLists\obj\Debug\net10.0\ArrayLists.pdb
+D:\C-sharp\C#_Collections\ArrayLists\ArrayLists\obj\Debug\net10.0\ArrayLists.genruntimeconfig.cache
+D:\C-sharp\C#_Collections\ArrayLists\ArrayLists\obj\Debug\net10.0\ref\ArrayLists.dll

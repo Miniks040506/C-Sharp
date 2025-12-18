@@ -1,0 +1,15 @@
+D:\C-sharp\C#_Collections\PredicateAndLambda\PredicateAndLambda\bin\Debug\net10.0\PredicateAndLambda.exe
+D:\C-sharp\C#_Collections\PredicateAndLambda\PredicateAndLambda\bin\Debug\net10.0\PredicateAndLambda.deps.json
+D:\C-sharp\C#_Collections\PredicateAndLambda\PredicateAndLambda\bin\Debug\net10.0\PredicateAndLambda.runtimeconfig.json
+D:\C-sharp\C#_Collections\PredicateAndLambda\PredicateAndLambda\bin\Debug\net10.0\PredicateAndLambda.dll
+D:\C-sharp\C#_Collections\PredicateAndLambda\PredicateAndLambda\bin\Debug\net10.0\PredicateAndLambda.pdb
+D:\C-sharp\C#_Collections\PredicateAndLambda\PredicateAndLambda\obj\Debug\net10.0\PredicateAndLambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp\C#_Collections\PredicateAndLambda\PredicateAndLambda\obj\Debug\net10.0\PredicateAndLambda.AssemblyInfoInputs.cache
+D:\C-sharp\C#_Collections\PredicateAndLambda\PredicateAndLambda\obj\Debug\net10.0\PredicateAndLambda.AssemblyInfo.cs
+D:\C-sharp\C#_Collections\PredicateAndLambda\PredicateAndLambda\obj\Debug\net10.0\PredicateAndLambda.csproj.CoreCompileInputs.cache
+D:\C-sharp\C#_Collections\PredicateAndLambda\PredicateAndLambda\obj\Debug\net10.0\PredicateAndLambda.sourcelink.json
+D:\C-sharp\C#_Collections\PredicateAndLambda\PredicateAndLambda\obj\Debug\net10.0\PredicateAndLambda.dll
+D:\C-sharp\C#_Collections\PredicateAndLambda\PredicateAndLambda\obj\Debug\net10.0\refint\PredicateAndLambda.dll
+D:\C-sharp\C#_Collections\PredicateAndLambda\PredicateAndLambda\obj\Debug\net10.0\PredicateAndLambda.pdb
+D:\C-sharp\C#_Collections\PredicateAndLambda\PredicateAndLambda\obj\Debug\net10.0\PredicateAndLambda.genruntimeconfig.cache
+D:\C-sharp\C#_Collections\PredicateAndLambda\PredicateAndLambda\obj\Debug\net10.0\ref\PredicateAndLambda.dll

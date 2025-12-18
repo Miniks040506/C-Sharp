@@ -1,0 +1,15 @@
+D:\C-sharp\C#_Collections\ListManipulate\ListManipulate\bin\Debug\net10.0\ListManipulate.exe
+D:\C-sharp\C#_Collections\ListManipulate\ListManipulate\bin\Debug\net10.0\ListManipulate.deps.json
+D:\C-sharp\C#_Collections\ListManipulate\ListManipulate\bin\Debug\net10.0\ListManipulate.runtimeconfig.json
+D:\C-sharp\C#_Collections\ListManipulate\ListManipulate\bin\Debug\net10.0\ListManipulate.dll
+D:\C-sharp\C#_Collections\ListManipulate\ListManipulate\bin\Debug\net10.0\ListManipulate.pdb
+D:\C-sharp\C#_Collections\ListManipulate\ListManipulate\obj\Debug\net10.0\ListManipulate.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp\C#_Collections\ListManipulate\ListManipulate\obj\Debug\net10.0\ListManipulate.AssemblyInfoInputs.cache
+D:\C-sharp\C#_Collections\ListManipulate\ListManipulate\obj\Debug\net10.0\ListManipulate.AssemblyInfo.cs
+D:\C-sharp\C#_Collections\ListManipulate\ListManipulate\obj\Debug\net10.0\ListManipulate.csproj.CoreCompileInputs.cache
+D:\C-sharp\C#_Collections\ListManipulate\ListManipulate\obj\Debug\net10.0\ListManipulate.sourcelink.json
+D:\C-sharp\C#_Collections\ListManipulate\ListManipulate\obj\Debug\net10.0\ListManipulate.dll
+D:\C-sharp\C#_Collections\ListManipulate\ListManipulate\obj\Debug\net10.0\refint\ListManipulate.dll
+D:\C-sharp\C#_Collections\ListManipulate\ListManipulate\obj\Debug\net10.0\ListManipulate.pdb
+D:\C-sharp\C#_Collections\ListManipulate\ListManipulate\obj\Debug\net10.0\ListManipulate.genruntimeconfig.cache
+D:\C-sharp\C#_Collections\ListManipulate\ListManipulate\obj\Debug\net10.0\ref\ListManipulate.dll

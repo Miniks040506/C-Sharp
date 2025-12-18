@@ -1,0 +1,15 @@
+D:\C-sharp\C#_Collections\ObjectList\ObjectList\bin\Debug\net10.0\ObjectList.exe
+D:\C-sharp\C#_Collections\ObjectList\ObjectList\bin\Debug\net10.0\ObjectList.deps.json
+D:\C-sharp\C#_Collections\ObjectList\ObjectList\bin\Debug\net10.0\ObjectList.runtimeconfig.json
+D:\C-sharp\C#_Collections\ObjectList\ObjectList\bin\Debug\net10.0\ObjectList.dll
+D:\C-sharp\C#_Collections\ObjectList\ObjectList\bin\Debug\net10.0\ObjectList.pdb
+D:\C-sharp\C#_Collections\ObjectList\ObjectList\obj\Debug\net10.0\ObjectList.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp\C#_Collections\ObjectList\ObjectList\obj\Debug\net10.0\ObjectList.AssemblyInfoInputs.cache
+D:\C-sharp\C#_Collections\ObjectList\ObjectList\obj\Debug\net10.0\ObjectList.AssemblyInfo.cs
+D:\C-sharp\C#_Collections\ObjectList\ObjectList\obj\Debug\net10.0\ObjectList.csproj.CoreCompileInputs.cache
+D:\C-sharp\C#_Collections\ObjectList\ObjectList\obj\Debug\net10.0\ObjectList.sourcelink.json
+D:\C-sharp\C#_Collections\ObjectList\ObjectList\obj\Debug\net10.0\ObjectList.dll
+D:\C-sharp\C#_Collections\ObjectList\ObjectList\obj\Debug\net10.0\refint\ObjectList.dll
+D:\C-sharp\C#_Collections\ObjectList\ObjectList\obj\Debug\net10.0\ObjectList.pdb
+D:\C-sharp\C#_Collections\ObjectList\ObjectList\obj\Debug\net10.0\ObjectList.genruntimeconfig.cache
+D:\C-sharp\C#_Collections\ObjectList\ObjectList\obj\Debug\net10.0\ref\ObjectList.dll

@@ -1,0 +1,15 @@
+D:\C-sharp\C#_Collections\ListCollection\ListCollection\bin\Debug\net10.0\ListCollection.exe
+D:\C-sharp\C#_Collections\ListCollection\ListCollection\bin\Debug\net10.0\ListCollection.deps.json
+D:\C-sharp\C#_Collections\ListCollection\ListCollection\bin\Debug\net10.0\ListCollection.runtimeconfig.json
+D:\C-sharp\C#_Collections\ListCollection\ListCollection\bin\Debug\net10.0\ListCollection.dll
+D:\C-sharp\C#_Collections\ListCollection\ListCollection\bin\Debug\net10.0\ListCollection.pdb
+D:\C-sharp\C#_Collections\ListCollection\ListCollection\obj\Debug\net10.0\ListCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp\C#_Collections\ListCollection\ListCollection\obj\Debug\net10.0\ListCollection.AssemblyInfoInputs.cache
+D:\C-sharp\C#_Collections\ListCollection\ListCollection\obj\Debug\net10.0\ListCollection.AssemblyInfo.cs
+D:\C-sharp\C#_Collections\ListCollection\ListCollection\obj\Debug\net10.0\ListCollection.csproj.CoreCompileInputs.cache
+D:\C-sharp\C#_Collections\ListCollection\ListCollection\obj\Debug\net10.0\ListCollection.sourcelink.json
+D:\C-sharp\C#_Collections\ListCollection\ListCollection\obj\Debug\net10.0\ListCollection.dll
+D:\C-sharp\C#_Collections\ListCollection\ListCollection\obj\Debug\net10.0\refint\ListCollection.dll
+D:\C-sharp\C#_Collections\ListCollection\ListCollection\obj\Debug\net10.0\ListCollection.pdb
+D:\C-sharp\C#_Collections\ListCollection\ListCollection\obj\Debug\net10.0\ListCollection.genruntimeconfig.cache
+D:\C-sharp\C#_Collections\ListCollection\ListCollection\obj\Debug\net10.0\ref\ListCollection.dll

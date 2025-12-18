@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C-sharp\\C#_Collections\\HashTables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9AF5BB-B5F5-D3B7-8E66-CB7126E8FB25}|HashTables\\HashTables.csproj|d:\\c-sharp\\c#_collections\\hashtables\\hashtables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9AF5BB-B5F5-D3B7-8E66-CB7126E8FB25}|HashTables\\HashTables.csproj|solutionrelative:hashtables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C-sharp\\C#_Collections\\HashTables\\HashTables\\Program.cs",
+              "RelativeDocumentMoniker": "HashTables\\Program.cs",
+              "ToolTip": "D:\\C-sharp\\C#_Collections\\HashTables\\HashTables\\Program.cs",
+              "RelativeToolTip": "HashTables\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T13:27:18.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

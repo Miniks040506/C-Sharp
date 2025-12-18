@@ -1,0 +1,15 @@
+D:\C-sharp\C#_Collections\Nullables\Nullables\bin\Debug\net10.0\Nullables.exe
+D:\C-sharp\C#_Collections\Nullables\Nullables\bin\Debug\net10.0\Nullables.deps.json
+D:\C-sharp\C#_Collections\Nullables\Nullables\bin\Debug\net10.0\Nullables.runtimeconfig.json
+D:\C-sharp\C#_Collections\Nullables\Nullables\bin\Debug\net10.0\Nullables.dll
+D:\C-sharp\C#_Collections\Nullables\Nullables\bin\Debug\net10.0\Nullables.pdb
+D:\C-sharp\C#_Collections\Nullables\Nullables\obj\Debug\net10.0\Nullables.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp\C#_Collections\Nullables\Nullables\obj\Debug\net10.0\Nullables.AssemblyInfoInputs.cache
+D:\C-sharp\C#_Collections\Nullables\Nullables\obj\Debug\net10.0\Nullables.AssemblyInfo.cs
+D:\C-sharp\C#_Collections\Nullables\Nullables\obj\Debug\net10.0\Nullables.csproj.CoreCompileInputs.cache
+D:\C-sharp\C#_Collections\Nullables\Nullables\obj\Debug\net10.0\Nullables.sourcelink.json
+D:\C-sharp\C#_Collections\Nullables\Nullables\obj\Debug\net10.0\Nullables.dll
+D:\C-sharp\C#_Collections\Nullables\Nullables\obj\Debug\net10.0\refint\Nullables.dll
+D:\C-sharp\C#_Collections\Nullables\Nullables\obj\Debug\net10.0\Nullables.pdb
+D:\C-sharp\C#_Collections\Nullables\Nullables\obj\Debug\net10.0\Nullables.genruntimeconfig.cache
+D:\C-sharp\C#_Collections\Nullables\Nullables\obj\Debug\net10.0\ref\Nullables.dll

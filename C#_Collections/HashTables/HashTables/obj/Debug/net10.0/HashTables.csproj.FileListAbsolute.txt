@@ -1,0 +1,15 @@
+D:\C-sharp\C#_Collections\HashTables\HashTables\bin\Debug\net10.0\HashTables.exe
+D:\C-sharp\C#_Collections\HashTables\HashTables\bin\Debug\net10.0\HashTables.deps.json
+D:\C-sharp\C#_Collections\HashTables\HashTables\bin\Debug\net10.0\HashTables.runtimeconfig.json
+D:\C-sharp\C#_Collections\HashTables\HashTables\bin\Debug\net10.0\HashTables.dll
+D:\C-sharp\C#_Collections\HashTables\HashTables\bin\Debug\net10.0\HashTables.pdb
+D:\C-sharp\C#_Collections\HashTables\HashTables\obj\Debug\net10.0\HashTables.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp\C#_Collections\HashTables\HashTables\obj\Debug\net10.0\HashTables.AssemblyInfoInputs.cache
+D:\C-sharp\C#_Collections\HashTables\HashTables\obj\Debug\net10.0\HashTables.AssemblyInfo.cs
+D:\C-sharp\C#_Collections\HashTables\HashTables\obj\Debug\net10.0\HashTables.csproj.CoreCompileInputs.cache
+D:\C-sharp\C#_Collections\HashTables\HashTables\obj\Debug\net10.0\HashTables.sourcelink.json
+D:\C-sharp\C#_Collections\HashTables\HashTables\obj\Debug\net10.0\HashTables.dll
+D:\C-sharp\C#_Collections\HashTables\HashTables\obj\Debug\net10.0\refint\HashTables.dll
+D:\C-sharp\C#_Collections\HashTables\HashTables\obj\Debug\net10.0\HashTables.pdb
+D:\C-sharp\C#_Collections\HashTables\HashTables\obj\Debug\net10.0\HashTables.genruntimeconfig.cache
+D:\C-sharp\C#_Collections\HashTables\HashTables\obj\Debug\net10.0\ref\HashTables.dll
